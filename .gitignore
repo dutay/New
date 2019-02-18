@@ -1,0 +1,28 @@
+# 忽略根目录下文件夹
+.gradle/
+captures/
+build/
+gen/
+.idea/
+
+# 忽略子文件夹
+*/build/
+*/.settings/
+*/bin/
+*/gen/
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+
+# 忽略文件格式
+*.apk
+*.ap_
+*.iml
+*.log
+*.rej
+*.pyc
+
+# 本地配置文件
+local.properties
+
+!*/assets/weex/build/
