@@ -6,6 +6,7 @@ public class AUtils {
         System.out.println("AAAAAAAAAAAAAAAAAAA");
     }
 
+
     public void B(){
         System.out.println("BBBBBBBBBBBBBBBBBBBB");
     }
